@@ -1,0 +1,2 @@
+# minesweeper
+WinAPI Minesweeper. CUI.
